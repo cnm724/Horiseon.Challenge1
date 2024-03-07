@@ -9,8 +9,8 @@ Horiseon website was a prebuilt structure that needed to be refined in its html/
 [GitPages](https://cnm724.github.io/Horiseon.Challenge1/)-https://cnm724.github.io/Horiseon.Challenge1/
 
 ## Usage
-![alt text](assets/screenshots/screenshot_nav.png)
-![alt text](assets/screenshots/screenshot_main.png)
+![Screenshot of nav](./assets/screenshots/screenshot_nav.png)
+![Screenshot of main](./assets/screenshots/screenshot_main.png)
 
 ## Credits
 
