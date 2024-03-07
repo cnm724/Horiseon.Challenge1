@@ -1,12 +1,14 @@
-# Horiseon.Challenge1
+# Horiseon.refactoring
 
 ## Description
 
 Horiseon website was a prebuilt structure that needed to be refined in its html/CSS code and the addition of alt attributes to make a webage that is accessible. The html code was refined to be easier to read by adding semantic language. CSS code was refined to minimize the repetitive usage of id's.
 
-## Usage
-https://cnm724.github.io/Horiseon.Challenge1/
+[GitHub Repo](https://github.com/cnm724/Horiseon.refactoring)-https://github.com/cnm724/Horiseon.refactorin
 
+[GitPages](https://cnm724.github.io/Horiseon.Challenge1/)-https://cnm724.github.io/Horiseon.Challenge1/
+
+## Usage
 ![alt text](assets/screenshots/screenshot_nav.png)
 ![alt text](assets/screenshots/screenshot_main.png)
 
