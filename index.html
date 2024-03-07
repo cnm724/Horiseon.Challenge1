@@ -8,11 +8,13 @@
 </head>
 
 <body>
+    <!-- changed most divs to semantic tag for ease of readiblity/minimize necessity of extra classes-->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
             <ul>
                 <li>
+                    <!-- added alt attributes to all links -->
                     <a href="#search-engine-optimization" title="This is a link to Searh Engine Optimization Section"> Search Engine Optimization</a>
                 </li>
                 <li>
@@ -26,8 +28,10 @@
     </header>
 
     <div class="hero"></div>
-    <main>
+    <main> 
+    <!-- changed from <div class="content" to main -->
         <article id="search-engine-optimization" class="topics">
+            <!-- added id tag to all articles to connect nav link to SEO section, added alt attributes to all imgs, changed all classes to same class=topics-->
             <img src="./assets/images/search-engine-optimization.jpg" alt="SEO example information displayed on a notebook" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -51,6 +55,7 @@
         </main>
     
     <aside class="benefits">
+        <!-- changed all articles in this aside to same class to minimize repetitive css attributes-->
         <article class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="gear funneling into money" />
